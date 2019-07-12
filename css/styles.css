@@ -42,7 +42,13 @@ h2{
     display:flex;
     flex-direction: column;
 }
-.middle{
+#p3{
     display:flex;
     flex-direction: column;
+    font-size: 60px;
+    text-align: center;
+}
+#p4{
+    float:right;
+    font-size: 25px;
 }
