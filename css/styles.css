@@ -46,9 +46,10 @@ h2{
     display:flex;
     flex-direction: column;
     font-size: 60px;
-    text-align: center;
+    text-align: left;
 }
 #p4{
     float:right;
     font-size: 25px;
+    margin-left: 40%;
 }
