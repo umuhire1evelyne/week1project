@@ -66,3 +66,38 @@ img1{
 .middlee{
     background-color: grey;
 }
+.media{
+    position:relative;
+    bottom:30%;
+    left:50%;
+    transform:translate(-23%,-20%);
+  }
+  .media li{
+    list-style:none;
+    margin:5px 2px;
+    padding:5px;
+    display:inline-block;
+    font-size:20px;
+    color:black;
+    border-radius:50%;
+    transition:.2s;
+    bottom:100px;
+    left:0;
+  }
+  li:hover{
+    color:#292929;
+    border:1px solid #292929;
+    transition:.2s;
+  }
+  .footer{
+    position:relative;
+    left:0;
+    bottom:0;
+    width:100%;
+    background-color:grey;
+    color:white;
+    text-align:center;
+  }
+#p7{
+    font-size: 50px;
+}
